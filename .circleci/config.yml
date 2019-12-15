@@ -7,5 +7,4 @@ jobs:
       - checkout
       - run: apk add py2-pip
       - run: pip install awscli
-      - run: rm -rf .* 2> /dev/null
-      - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/
+      - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/ --rexclude "^\."
