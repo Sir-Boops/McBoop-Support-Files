@@ -1,0 +1,10 @@
+version: 2.1
+jobs:
+  build:
+    docker:
+      - image: alpine:1.10
+    steps:
+      - checkout
+      - run: apk add py2-pip
+      - run: pip install awscli
+      - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/
