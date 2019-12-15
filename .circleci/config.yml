@@ -5,6 +5,6 @@ jobs:
       - image: alpine:3.10.3
     steps:
       - checkout
-      - run: apk add py2-pip
+      - run: apk add py2-pip git
       - run: pip install awscli
-      - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/ --rexclude "^\."
+      - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/ --exclude ".*"
