@@ -8,3 +8,5 @@ jobs:
       - run: apk add py2-pip
       - run: pip install awscli
       - run: aws s3 sync . s3://boops-deploy/McBoop/Support-Files/ --exclude ".*" --acl public-read
+      - run: sed -i "s/buildbot/$(git rev-parse HEAD)/g" .circleci/inv-batch.json
+      - run: aws cloudfront create-invalidation --distribution-id EYO1QOMN5FQJH --invalidation-batch file://.circleci/inv-batch.json
