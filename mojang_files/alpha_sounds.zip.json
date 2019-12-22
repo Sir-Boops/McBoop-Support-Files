@@ -1,0 +1,602 @@
+[
+  {
+    "name": "streaming/far.mus",
+    "sha256sum": "870c83212cba5d163bbd7a2b21b276fc991db57d4e28465d59699595cd9ad19a"
+  },
+  {
+    "name": "streaming/mellohi.mus",
+    "sha256sum": "8ab9266b24111ab9486bc05bfe4263191a35a2d57710db4babc8d711fab9b56b"
+  },
+  {
+    "name": "streaming/strad.mus",
+    "sha256sum": "061992b208e2cba642bbfadf43b5e6c2028339e6282a611c753ad698c3b21be4"
+  },
+  {
+    "name": "streaming/13.mus",
+    "sha256sum": "34f8b6009ecd8467459c102dfcc5ae450d0109d5b28b7a8d67dd1eada9fa52e3"
+  },
+  {
+    "name": "streaming/chirp.mus",
+    "sha256sum": "dcca5b9b5dc10cab811cb984a5a62a51e960b4991a35015b3c79d233d3056df8"
+  },
+  {
+    "name": "streaming/blocks.mus",
+    "sha256sum": "1be5e48004e53ae5ca7cb3f38340c4de22a4ef842aee7ae2c1460913b35cde1d"
+  },
+  {
+    "name": "streaming/mall.mus",
+    "sha256sum": "1b95e25acf1b7e2750d182e028c713cc3984a0b59dedfc05783975161210a704"
+  },
+  {
+    "name": "streaming/11.mus",
+    "sha256sum": "546b47bae3185a96b33b5c82b0b7926c3574c583345edc0ada61d85b1483506f"
+  },
+  {
+    "name": "streaming/ward.mus",
+    "sha256sum": "16f3c275248463d689de3ecdcc8af78edf128ab7fe90ee2087df5c837a141135"
+  },
+  {
+    "name": "streaming/stal.mus",
+    "sha256sum": "efa2f263e5af30292cb54a22249169900e07605d5a4772d1c6ded3ee00ec23a9"
+  },
+  {
+    "name": "streaming/cat.ogg",
+    "sha256sum": "cfdcd419da8ab1aac21804f04c674a58bce6a417845e669bf5d49080f28147d5"
+  },
+  {
+    "name": "streaming/13.ogg",
+    "sha256sum": "6ffa34f875e05882d39b191e4608794ef009b4444cd95b940de682e1d631a93a"
+  },
+  {
+    "name": "streaming/cat.mus",
+    "sha256sum": "e16455a7b74a548ad69c580b47ba6edede62a32746323ab759c7206b088b582e"
+  },
+  {
+    "name": "streaming/where are we now.mus",
+    "sha256sum": "1cbd81ccdc07c906eae7a8778f5b9d1b29dce66cdf305328b0e98e1b56a9fb4f"
+  },
+  {
+    "name": "newmusic/piano1.ogg",
+    "sha256sum": "73e7d452c819653074ca3e04a1359ed9905577a6159d1e399f56ca73bdd86e0c"
+  },
+  {
+    "name": "newmusic/piano3.ogg",
+    "sha256sum": "75c3914f6a94846aab1d564822976043388dc5bb875962ba3f2190e1719da659"
+  },
+  {
+    "name": "newmusic/piano2.ogg",
+    "sha256sum": "3998b9684819f11d23e0d9d84ccb5f35078cf25d7d6e81720795889b80424d3c"
+  },
+  {
+    "name": "newsound/fire/ignite.ogg",
+    "sha256sum": "10fe6637d8fa3a9256d367b16f89e9b6313d28e8a3d7ffc9d8136a202512a4ea"
+  },
+  {
+    "name": "newsound/fire/fire.ogg",
+    "sha256sum": "d7c0af67c93206baaefe10e1d55968412b1e1367858b2d940366abcee4e794cc"
+  },
+  {
+    "name": "newsound/ambient/cave/cave2.ogg",
+    "sha256sum": "86589a436adeedaf4ef6584d7bd6bef4ff31a70fa7ed4c4323a6d9292c042292"
+  },
+  {
+    "name": "newsound/ambient/cave/cave12.ogg",
+    "sha256sum": "255f98ac90fc31841a5df5291203061d4bb1a8c878f88c396530f17845d41184"
+  },
+  {
+    "name": "newsound/ambient/cave/cave10.ogg",
+    "sha256sum": "32b41dfc267327b418273ef69fa4132d2a517a49f14a0280747a4bc53e2bacf4"
+  },
+  {
+    "name": "newsound/ambient/cave/cave11.ogg",
+    "sha256sum": "f86545beb8e89327c5600ed1b3d28fdc08a89c95afc8a9cd7818bdda570fcdaa"
+  },
+  {
+    "name": "newsound/ambient/cave/cave13.ogg",
+    "sha256sum": "509c9516d7086b7ae85753ed888c466332c251578604946dcc32e41b3d7816a8"
+  },
+  {
+    "name": "newsound/ambient/cave/cave9.ogg",
+    "sha256sum": "d71c83205a6afc85be92d763629297b336deb4a904c77802283e709095b24083"
+  },
+  {
+    "name": "newsound/ambient/cave/cave7.ogg",
+    "sha256sum": "5db5d586a86d92ab701af6fd9be47cb4d89c8390488da94c7f2bce4b73bd5019"
+  },
+  {
+    "name": "newsound/ambient/cave/cave1.ogg",
+    "sha256sum": "1a1c3ea102275ecea6521ba7212b2403dbbda1f2b5d3ae6c9f06201c93c2e8de"
+  },
+  {
+    "name": "newsound/ambient/cave/cave6.ogg",
+    "sha256sum": "f97030e0c8f8f0e28ebb489eef652c3261bc0e46c011f5b31bc3d5b9f5228925"
+  },
+  {
+    "name": "newsound/ambient/cave/cave5.ogg",
+    "sha256sum": "f210f15abce8ffe6805fcf68dbfa92e46933293d8eaf9bfed58a347f7f3f4aaa"
+  },
+  {
+    "name": "newsound/ambient/cave/cave4.ogg",
+    "sha256sum": "d54c4c5037edb082750394697f70320d88999ca21d0c510bfb558dd0caed65c5"
+  },
+  {
+    "name": "newsound/ambient/cave/cave8.ogg",
+    "sha256sum": "eb308c43743e3520d2d1350e8ea0cf34e4489aec1c1ff3625d5202588b39c513"
+  },
+  {
+    "name": "newsound/ambient/cave/cave3.ogg",
+    "sha256sum": "8fb59144400fb9d512b35fa3d63be080c447dc9c1717c073c1b4fa0d38ae92df"
+  },
+  {
+    "name": "newsound/mob/cowhurt3.ogg",
+    "sha256sum": "3a3d0416e0aa63b3314b499f36a3334a23e945029a8ebfb3a357948c87db6ffe"
+  },
+  {
+    "name": "newsound/mob/chickenhurt2.ogg",
+    "sha256sum": "b76ce1f898495f4d178e552ac63d18ba86661317c3f5fa42e425e51abb330f8a"
+  },
+  {
+    "name": "newsound/mob/spider4.ogg",
+    "sha256sum": "0b8cd1e6db3a92fe03934249934ca739a38509d517388d26e3ab2c10cbc1d7dc"
+  },
+  {
+    "name": "newsound/mob/chicken3.ogg",
+    "sha256sum": "f7117947467cd443b6b4db869044fc0ca401dcdd130082805912ed4336ec5fe2"
+  },
+  {
+    "name": "newsound/mob/spider2.ogg",
+    "sha256sum": "fc21014580e7501e400a3679617e7ab0d5b9729b6bbb4cb356d0ad0d0bc5c94b"
+  },
+  {
+    "name": "newsound/mob/zombiedeath.ogg",
+    "sha256sum": "052cce2dea9fec085c9bd1c1541b60b6f1b9f2f5f5b69014e1e7310c761d3c30"
+  },
+  {
+    "name": "newsound/mob/chicken1.ogg",
+    "sha256sum": "5396aa9aebab2533f5b0df30f37280672c614499da4d1c73c553696afad62d2a"
+  },
+  {
+    "name": "newsound/mob/creeper1.ogg",
+    "sha256sum": "1da08b8052530a9ddb113ea13b9135c036844ed3deccd82d7744b3ab765826f2"
+  },
+  {
+    "name": "newsound/mob/cowhurt2.ogg",
+    "sha256sum": "7e02494277841c6cadc677df078ce81876cc8652a734179dc54d75d5ac4f8c1e"
+  },
+  {
+    "name": "newsound/mob/zombiehurt1.ogg",
+    "sha256sum": "fd2cbce6b58ab65e3dba73b2aa8d86b6e5753fd5c8d543e1b691e5c364bc4a6e"
+  },
+  {
+    "name": "newsound/mob/cowhurt1.ogg",
+    "sha256sum": "42fdeeb8399a471796ae1c74713aed0da91ff038fd8f5d85cc2cb3db3b8b5ed8"
+  },
+  {
+    "name": "newsound/mob/sheep3.ogg",
+    "sha256sum": "0147bcae0c1907b6a2f34c7f1c4c848424f8f558c9960a38c20198a917b601c8"
+  },
+  {
+    "name": "newsound/mob/creeper4.ogg",
+    "sha256sum": "4821f2dd1587c2f52efdddf6fb65d98ce2b5137bcb1f600c27ac2242fb582a7a"
+  },
+  {
+    "name": "newsound/mob/slime4.ogg",
+    "sha256sum": "32ba6331a560f3ae199c2521dbef8f489ef3d8e314e2f6b52dc04805b58ceea7"
+  },
+  {
+    "name": "newsound/mob/pig3.ogg",
+    "sha256sum": "172d6d666dd6c4506ed6313bbe3d8f0baea506f981d669509da0d1946568d26b"
+  },
+  {
+    "name": "newsound/mob/creeperdeath.ogg",
+    "sha256sum": "f5373a0dad28c21d52349be7c1d06403e198bdef6054dd86fd3a9efb0d450123"
+  },
+  {
+    "name": "newsound/mob/spiderdeath.ogg",
+    "sha256sum": "0ad281aa0a056f015c392bbec569ca1f9fbc985f24d4c34bbdc3414ca95fb752"
+  },
+  {
+    "name": "newsound/mob/skeletonhurt4.ogg",
+    "sha256sum": "9dfaae48099c2cd82b1687c56ab79ba3c09e74302b901840dc1c34a9dbe919db"
+  },
+  {
+    "name": "newsound/mob/creeper2.ogg",
+    "sha256sum": "9ab84d2b658ce2a212592220e8b45167f56137e83b6e52ab0b4e99a1bacee845"
+  },
+  {
+    "name": "newsound/mob/skeletonhurt3.ogg",
+    "sha256sum": "216ae23e644725fadafdfa1b329d0ac7741013447cc9e8f9bcf6d84bd51a4fe0"
+  },
+  {
+    "name": "newsound/mob/pig1.ogg",
+    "sha256sum": "a6d53f56193788d32344d615db34d203f3060aa579ca7a572738178db94c9faf"
+  },
+  {
+    "name": "newsound/mob/chickenhurt1.ogg",
+    "sha256sum": "f8db356a0f474ac9b907485c760314fb8ad963fc2b1aa97ad01efe42e5f063b3"
+  },
+  {
+    "name": "newsound/mob/skeleton1.ogg",
+    "sha256sum": "7543f97233eb091dd2aa7a6705b88dd060105e845e9b8489b4aff2d844efb4c3"
+  },
+  {
+    "name": "newsound/mob/pig2.ogg",
+    "sha256sum": "46a7eb96fb0eb120419d894b9b9d003a3ec6dc1e5ea12a5b8b1e09bd624bcc76"
+  },
+  {
+    "name": "newsound/mob/slimeattack1.ogg",
+    "sha256sum": "a953ff5cf25dfccae2a7dce104663671143150ea149ce4f6b157b9ccc6d8a74c"
+  },
+  {
+    "name": "newsound/mob/cow4.ogg",
+    "sha256sum": "e578c5ac24d6c931a24f4c8506739310a5aaf0feac2758dc7f60ea79aaa551e8"
+  },
+  {
+    "name": "newsound/mob/slime3.ogg",
+    "sha256sum": "120796709985182d1b823670d0a2bfda367a7fbfcd585771caa535c65bd6ec01"
+  },
+  {
+    "name": "newsound/mob/slimeattack2.ogg",
+    "sha256sum": "5941ed2db72663d081148649e0b5f75a3b8b057794145edc3399f56a5d24f569"
+  },
+  {
+    "name": "newsound/mob/pigdeath.ogg",
+    "sha256sum": "3fe52ae493581b67313461f95d2119a36cf346de2ff846946cd2e224a5228171"
+  },
+  {
+    "name": "newsound/mob/cow2.ogg",
+    "sha256sum": "748c848476f631946c329b451a2f841f2f1aa5c2ed418f89f87eb9ae597ad076"
+  },
+  {
+    "name": "newsound/mob/chickenplop.ogg",
+    "sha256sum": "89b7ceb1d18d2c3d3d462a8409db0e6db34e0dc29b8164ccbb211bd1be72e390"
+  },
+  {
+    "name": "newsound/mob/cow1.ogg",
+    "sha256sum": "5179706ef6f6afe0fa548568b8221c9967d31d0b3579ee7d5b6ff4fab4d4b09e"
+  },
+  {
+    "name": "newsound/mob/skeletonhurt2.ogg",
+    "sha256sum": "0591a9b410107d7f1eb6b2406dd3c1e1c76095f7c1b675b42ad6d97b087bf123"
+  },
+  {
+    "name": "newsound/mob/skeletonhurt1.ogg",
+    "sha256sum": "e1cb8cb6a5d8dc85243c16b9bdaafe9b44f9503e53607a61a937ffa66908636f"
+  },
+  {
+    "name": "newsound/mob/creeper3.ogg",
+    "sha256sum": "66ab44cf6707f062731eb9541ed1fa56701d04b0050eca7377c9dd03f41b2e22"
+  },
+  {
+    "name": "newsound/mob/skeletondeath.ogg",
+    "sha256sum": "5ea5e1cc0edf0b6093210a7440a5cec43f8a9ef906e258795fe4160a1a102ec5"
+  },
+  {
+    "name": "newsound/mob/skeleton2.ogg",
+    "sha256sum": "ae40502715776c3dc36b232a81f5f973fe8f70a0e2cf5dcba328e9b002db8e80"
+  },
+  {
+    "name": "newsound/mob/spider1.ogg",
+    "sha256sum": "12bdac5ab8b092987b3e090bc11563af39f7e81e6a1cda905ca72582e66583dc"
+  },
+  {
+    "name": "newsound/mob/slime1.ogg",
+    "sha256sum": "0dbc30393e8527033e3bc74c277f6ef712e803d861ea1ca9bad91d33321781fc"
+  },
+  {
+    "name": "newsound/mob/zombiehurt2.ogg",
+    "sha256sum": "e91a2ace7d09d3bce417c5694308bc63243541ec23dce15d004432f32f5fdec8"
+  },
+  {
+    "name": "newsound/mob/zombie3.ogg",
+    "sha256sum": "d0e981ec22dd8a6927d1621c990b182789a712f30ad00108ab4f01f974fe6383"
+  },
+  {
+    "name": "newsound/mob/zombie2.ogg",
+    "sha256sum": "626e0f7a5bb15fb82729bf7d1abee398bda35fdce29f369d554061c96be38d1c"
+  },
+  {
+    "name": "newsound/mob/sheep2.ogg",
+    "sha256sum": "3a81accff735f48eb4ddb631ae74e903d619f0f0803a792f895a149d7be082d9"
+  },
+  {
+    "name": "newsound/mob/chicken2.ogg",
+    "sha256sum": "0ab57724579519794592587f5118cb33219eb3c9e01ebdaed5f44785995e143e"
+  },
+  {
+    "name": "newsound/mob/sheep1.ogg",
+    "sha256sum": "3138381f5a3d51a6bb9f61b36e45afb0e769281433d4b4e4b7b0191471edb74c"
+  },
+  {
+    "name": "newsound/mob/skeleton3.ogg",
+    "sha256sum": "c7dee0f2702ebfa1e6ed08b50fd753906d9c22fc79c8f4582de2d229b2d33552"
+  },
+  {
+    "name": "newsound/mob/zombie1.ogg",
+    "sha256sum": "b1f2b64cc2639c869d57955aabf9d46206ae7a8def97ebb68865b1743c5528e2"
+  },
+  {
+    "name": "newsound/mob/slime5.ogg",
+    "sha256sum": "def8113c8f9cf78525fdcd0b516b0d4d4684a2ffc3ff00ebc7261d79a7a8173b"
+  },
+  {
+    "name": "newsound/mob/cow3.ogg",
+    "sha256sum": "70883b349cbbdfab28dc354def4cc604585c3023395b094713f8f095f7699cb0"
+  },
+  {
+    "name": "newsound/mob/spider3.ogg",
+    "sha256sum": "a6a41a152090fa334a63ce48132bd82123c541817cac46700702ba6cfb28adca"
+  },
+  {
+    "name": "newsound/mob/slime2.ogg",
+    "sha256sum": "41132e31f04d56f52e21fffb764f9a242e7a23a585bd6e50e6251eda3016305e"
+  },
+  {
+    "name": "newsound/random/door_close.ogg",
+    "sha256sum": "8bff296afc952e4c66a15c5b3693dec0f26365a1a40396f262e7f4326446588b"
+  },
+  {
+    "name": "newsound/random/explode.ogg",
+    "sha256sum": "5d996493c8829e5126cc25e4c16f6c06f1a0cff88f79abdff213e7179a111481"
+  },
+  {
+    "name": "newsound/random/drr.ogg",
+    "sha256sum": "2f177dd9e7b9a710ee2e04d75bf3cb51864d04e03dafb859c730c1965f476fb0"
+  },
+  {
+    "name": "newsound/random/bow.ogg",
+    "sha256sum": "19ed7cc7a5af71dffe247df4024b51ad305f118780e1685783778fdf5b948b14"
+  },
+  {
+    "name": "newsound/random/fuse.ogg",
+    "sha256sum": "4cf9560e566bcf200f61e460e47cd18f6002304a28d376c6ba2139ec96628828"
+  },
+  {
+    "name": "newsound/random/wood click.ogg",
+    "sha256sum": "7dce4248fec6971e31c9a5fa644b3a93449eeab010c79cf732d24ba95887d0ba"
+  },
+  {
+    "name": "newsound/random/click.ogg",
+    "sha256sum": "f69421ba05229236c7a4efbc9a5e18c4aeb0621feb95471241ef0063c21b865a"
+  },
+  {
+    "name": "newsound/random/hurt.ogg",
+    "sha256sum": "f087f1373227cdfa745bd43d977492fd875cf193b41dec6837ba331e74c0a818"
+  },
+  {
+    "name": "newsound/random/fizz.ogg",
+    "sha256sum": "32c42c9c46b99b40191ab10dca9096ff7d7fc05f69276b418a4ae244f08e319e"
+  },
+  {
+    "name": "newsound/random/glass2.ogg",
+    "sha256sum": "7288bb874add42719964c87a232c2897f3e965e33ca55652b4744b4fad87fcea"
+  },
+  {
+    "name": "newsound/random/breath.ogg",
+    "sha256sum": "d72a45fe2628a78366289e9d6abfd43b910bbda97c1b961b58a40b37d2175e35"
+  },
+  {
+    "name": "newsound/random/glass3.ogg",
+    "sha256sum": "062c3175b3ab2b7e44b52a10bb9ff60eb6c01f5b19f165e90df0ab0c215b07d6"
+  },
+  {
+    "name": "newsound/random/splash.ogg",
+    "sha256sum": "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
+  },
+  {
+    "name": "newsound/random/door_open.ogg",
+    "sha256sum": "98f55537af8c616f5f9de4472596e9f972b776adedcd59dbe660c6d4aaedb2c0"
+  },
+  {
+    "name": "newsound/random/pop.ogg",
+    "sha256sum": "5e3baf518a0104760dc06a2e0088b377433997b46511c1730db0e3ba6f2b0ca7"
+  },
+  {
+    "name": "newsound/random/glass1.ogg",
+    "sha256sum": "ac96668c1b15115e362b2d7d033c46df1575535da06cbcb8bed2fa3b740ab446"
+  },
+  {
+    "name": "newsound/step/gravel1.ogg",
+    "sha256sum": "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
+  },
+  {
+    "name": "newsound/step/grass4.ogg",
+    "sha256sum": "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
+  },
+  {
+    "name": "newsound/step/gravel4.ogg",
+    "sha256sum": "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
+  },
+  {
+    "name": "newsound/step/cloth4.ogg",
+    "sha256sum": "09d5879722c54c86d39d83df919f7f712ed92044ffb5b0a6757b9fc2e02281a3"
+  },
+  {
+    "name": "newsound/step/stone3.ogg",
+    "sha256sum": "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
+  },
+  {
+    "name": "newsound/step/grass2.ogg",
+    "sha256sum": "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
+  },
+  {
+    "name": "newsound/step/stone4.ogg",
+    "sha256sum": "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
+  },
+  {
+    "name": "newsound/step/wood1.ogg",
+    "sha256sum": "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
+  },
+  {
+    "name": "newsound/step/cloth2.ogg",
+    "sha256sum": "139fc234e51f7825fcdedf10c93d8d60c59df9b4955334f409a624e4b3e6bfbb"
+  },
+  {
+    "name": "newsound/step/snow1.ogg",
+    "sha256sum": "f7e03bb5bcc487cea313bfd72ded4cfd4e215b82228cf9744760f61da4c496bb"
+  },
+  {
+    "name": "newsound/step/wood4.ogg",
+    "sha256sum": "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
+  },
+  {
+    "name": "newsound/step/snow2.ogg",
+    "sha256sum": "a0d603f69ad58662e688d74b9ca2f345eebc0938b4af954f16840adf436fe8d9"
+  },
+  {
+    "name": "newsound/step/wood2.ogg",
+    "sha256sum": "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
+  },
+  {
+    "name": "newsound/step/snow3.ogg",
+    "sha256sum": "ae97513c5bcac9d08f5c8bcbaf55b7a3112134603c141b5de70e15a06c77e325"
+  },
+  {
+    "name": "newsound/step/gravel3.ogg",
+    "sha256sum": "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
+  },
+  {
+    "name": "newsound/step/grass3.ogg",
+    "sha256sum": "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
+  },
+  {
+    "name": "newsound/step/stone1.ogg",
+    "sha256sum": "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
+  },
+  {
+    "name": "newsound/step/cloth3.ogg",
+    "sha256sum": "ac49293ab32aa3154eb5c1251e3175a55d28f9e6866bf74fa76c2cefdf6cc40e"
+  },
+  {
+    "name": "newsound/step/wood3.ogg",
+    "sha256sum": "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
+  },
+  {
+    "name": "newsound/step/gravel2.ogg",
+    "sha256sum": "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
+  },
+  {
+    "name": "newsound/step/sand2.ogg",
+    "sha256sum": "74ef2fa1b6c52356ffa9bce77c826681be52d73f0deaa423e87694a2fd79fffd"
+  },
+  {
+    "name": "newsound/step/cloth1.ogg",
+    "sha256sum": "8a716f2a3cbfb5d330d3aa9999ff56f0636cf388991caa06d866576989c9f36e"
+  },
+  {
+    "name": "newsound/step/grass1.ogg",
+    "sha256sum": "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
+  },
+  {
+    "name": "newsound/step/sand1.ogg",
+    "sha256sum": "1260ef32a374eb6ca23da821764886b67d655bd2ee34a71a1520e90c308aa63e"
+  },
+  {
+    "name": "newsound/step/sand4.ogg",
+    "sha256sum": "42ac91167d26014e04fa8c50435d655e2b0c6168f319c9c99ea7377b4df912a5"
+  },
+  {
+    "name": "newsound/step/snow4.ogg",
+    "sha256sum": "c7918a0b58c45a6f0d29fa990bbd31a7b482ef61387c83a02eb7f70b672e4761"
+  },
+  {
+    "name": "newsound/step/stone2.ogg",
+    "sha256sum": "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
+  },
+  {
+    "name": "newsound/step/sand3.ogg",
+    "sha256sum": "0441e996d75a0d2d67cec2ef60251f2a9cde6e15299589db79f4690ea8cc580e"
+  },
+  {
+    "name": "newsound/liquid/splash.ogg",
+    "sha256sum": "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
+  },
+  {
+    "name": "newsound/liquid/lava.ogg",
+    "sha256sum": "018aad624cd42452fb62de54d5e5481635534729d73c3400616bb49d50d3c69a"
+  },
+  {
+    "name": "newsound/liquid/water.ogg",
+    "sha256sum": "80903e62e3081674799acb05f34991042ef4a053822075f720870b76bc3a306a"
+  },
+  {
+    "name": "newsound/liquid/lavapop.ogg",
+    "sha256sum": "36ea4ed27e7ccee174e560e89bb5b1686d49f98136463b9ca1bccfa0d6c37f71"
+  },
+  {
+    "name": "music/calm2.ogg",
+    "sha256sum": "635808adb8dff5fe0d2352fcc0d17ca83c4b2d1fe19e52d0027ef6c2e65bf4e0"
+  },
+  {
+    "name": "music/calm3.ogg",
+    "sha256sum": "d9abe98f17a83de0ce1bb71edb24b425fd0bfb70ed2be8db4c45449b7398b28e"
+  },
+  {
+    "name": "music/calm1.ogg",
+    "sha256sum": "77f17d331313df17ffb4d5e7f70580db81b254689c1c9028080a7f3a6896d438"
+  },
+  {
+    "name": "sound/step/gravel1.ogg",
+    "sha256sum": "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
+  },
+  {
+    "name": "sound/step/grass4.ogg",
+    "sha256sum": "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
+  },
+  {
+    "name": "sound/step/gravel4.ogg",
+    "sha256sum": "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
+  },
+  {
+    "name": "sound/step/stone3.ogg",
+    "sha256sum": "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
+  },
+  {
+    "name": "sound/step/grass2.ogg",
+    "sha256sum": "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
+  },
+  {
+    "name": "sound/step/stone4.ogg",
+    "sha256sum": "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
+  },
+  {
+    "name": "sound/step/wood1.ogg",
+    "sha256sum": "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
+  },
+  {
+    "name": "sound/step/wood4.ogg",
+    "sha256sum": "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
+  },
+  {
+    "name": "sound/step/wood2.ogg",
+    "sha256sum": "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
+  },
+  {
+    "name": "sound/step/gravel3.ogg",
+    "sha256sum": "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
+  },
+  {
+    "name": "sound/step/grass3.ogg",
+    "sha256sum": "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
+  },
+  {
+    "name": "sound/step/stone1.ogg",
+    "sha256sum": "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
+  },
+  {
+    "name": "sound/step/wood3.ogg",
+    "sha256sum": "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
+  },
+  {
+    "name": "sound/step/gravel2.ogg",
+    "sha256sum": "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
+  },
+  {
+    "name": "sound/step/grass1.ogg",
+    "sha256sum": "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
+  },
+  {
+    "name": "sound/step/stone2.ogg",
+    "sha256sum": "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
+  }
+]
