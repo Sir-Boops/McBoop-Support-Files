@@ -1,0 +1,490 @@
+[
+  {
+    "name": "ASSEMBLY_EXCEPTION",
+    "sha256sum": "a44eb7b5caf5534c6ef536b21edb40b4d6babf91bf97d9d45596868618b2c6fb"
+  },
+  {
+    "name": "LICENSE",
+    "sha256sum": "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726"
+  },
+  {
+    "name": "THIRD_PARTY_README",
+    "sha256sum": "96b8e31d441cd97833b58d397773c577307f727ab50c38d71e4231ed537f7b49"
+  },
+  {
+    "name": "bin/JAWTAccessBridge-64.dll",
+    "sha256sum": "f119129c8815e65b41278cb0cde4ffed63a513ebc53c6cea4905e13df89499a4"
+  },
+  {
+    "name": "bin/JavaAccessBridge-64.dll",
+    "sha256sum": "90932e83d96018f0de5ec086ac269df1146a97db7bbb3c3f33de0f42ad1e4dc9"
+  },
+  {
+    "name": "bin/WindowsAccessBridge-64.dll",
+    "sha256sum": "471a151c99df1fdff24f778f70d9541905c9ad5133e76d79805749fe17767e8f"
+  },
+  {
+    "name": "bin/awt.dll",
+    "sha256sum": "0d9ca73cdd1961142f5e8ac09d6dfb170e9d4e8df408074098c984e7d187ee70"
+  },
+  {
+    "name": "bin/dt_shmem.dll",
+    "sha256sum": "10c20183223cd03749c760c4874712b870c926d23c2deadc8933d856fa62d612"
+  },
+  {
+    "name": "bin/dt_socket.dll",
+    "sha256sum": "ef3681b7fcc1e2d5b88212008efa97f35c64c97670f8425e056866553b8fcf69"
+  },
+  {
+    "name": "bin/fontmanager.dll",
+    "sha256sum": "4e4907fb85b635d0e1f5b3b431528d98219c7e6ce4643bb4d4800bef1dd56f54"
+  },
+  {
+    "name": "bin/freetype.dll",
+    "sha256sum": "ac68ffb4515b0063d4c322d896b1a67adb6002bc122ad30785ff9b5029d9217f"
+  },
+  {
+    "name": "bin/hprof.dll",
+    "sha256sum": "745ff99160d840a83bbf668942b98731ba157eea95b14d81435d65eeafc131c4"
+  },
+  {
+    "name": "bin/instrument.dll",
+    "sha256sum": "e548d8b2b693728a3bd04a1aa2a6810b1759ad1f5267c2361e91ed07787e6b1f"
+  },
+  {
+    "name": "bin/j2pcsc.dll",
+    "sha256sum": "957abc9dd2482a9d901275e99be0933c4af16c56cf185b1993d9a331c5db932c"
+  },
+  {
+    "name": "bin/j2pkcs11.dll",
+    "sha256sum": "970cf92470ca57059fab4ef1a385f0b74331436d5082dae114b5b13fa1d99ac7"
+  },
+  {
+    "name": "bin/jaas_nt.dll",
+    "sha256sum": "67be6d2a915ef8355913fd24899a6f403277705039d766c1dedab74e9451d5e0"
+  },
+  {
+    "name": "bin/jabswitch.exe",
+    "sha256sum": "6ea7e329fbb73b9d602e5c55226579afa9e58f4d64227ea2ee34093ff10d4225"
+  },
+  {
+    "name": "bin/java-rmi.exe",
+    "sha256sum": "814d40ac8727b550201cf87c815954c1935ddabcaf1df4874eef0f7a9a81c49e"
+  },
+  {
+    "name": "bin/java.dll",
+    "sha256sum": "68db85add9676598e804c76327150301da414639cacd01ccc1f4846106331e64"
+  },
+  {
+    "name": "bin/java.exe",
+    "sha256sum": "f0c7bfbf3a3e10d7ad61c76e0675ff5c3bae6a97adcb144a469d98f665cc514a"
+  },
+  {
+    "name": "bin/java_crw_demo.dll",
+    "sha256sum": "ea329fe772522101e0a8cbf7a8e11ed41acfc5eddae991985cc59547e6c56f03"
+  },
+  {
+    "name": "bin/javaw.exe",
+    "sha256sum": "ec063b9eb1c82e45ab739416a4ff3895223c9f00a570ef9650ed7c569b7a6a6b"
+  },
+  {
+    "name": "bin/jawt.dll",
+    "sha256sum": "75d5bf5afa3fedffd1a787b5a79b33d09ce8cf7fe7938fc7c8512e877b83eade"
+  },
+  {
+    "name": "bin/jdwp.dll",
+    "sha256sum": "a741682177c6864ed5ecd4e7720a819d442535cadb78a9bc2c19a767302b1c1c"
+  },
+  {
+    "name": "bin/jjs.exe",
+    "sha256sum": "ebe32370bd9b0d1291546893d494a2784a4877f3f54a0dd852e66a4b8af85794"
+  },
+  {
+    "name": "bin/jli.dll",
+    "sha256sum": "964797fff06c55edc96b6749b190465b671f3072238061f072889265952903fc"
+  },
+  {
+    "name": "bin/jpeg.dll",
+    "sha256sum": "47a9f163c24f0c738f2f208bd0c2af46afc2b80576bd8fd3f960cc8a43a7c4b4"
+  },
+  {
+    "name": "bin/jsdt.dll",
+    "sha256sum": "41b3dd503dcd5fb782812fedd419faeb3dbf263a34235769c166804498358e87"
+  },
+  {
+    "name": "bin/jsound.dll",
+    "sha256sum": "6a286f1ba48413a6ff7853aea8a97e0520d201efbc3bffcc0aa93a0c6da97e46"
+  },
+  {
+    "name": "bin/jsoundds.dll",
+    "sha256sum": "6e67a833cc237bc8694eb755d94d009681ade1246224964fb8f6bef8516a82e6"
+  },
+  {
+    "name": "bin/keytool.exe",
+    "sha256sum": "a8184d9088fc5784a1e785b7f8efc6a522b878cd9749a5870de72aff10c36236"
+  },
+  {
+    "name": "bin/kinit.exe",
+    "sha256sum": "940a1a0407601086e18849a12cead85e493177c84075a9247b5a16733d26d5f1"
+  },
+  {
+    "name": "bin/klist.exe",
+    "sha256sum": "8e0dce5091f3659ad85ad29b92c60cd613576d627d3f1cfe80a498f64afab654"
+  },
+  {
+    "name": "bin/ktab.exe",
+    "sha256sum": "d1edbf0f8d1b78496afa71a90be88ffd0ee3349a3bed99deed13277b83c20ddd"
+  },
+  {
+    "name": "bin/lcms.dll",
+    "sha256sum": "222cf0dd4cf97f6dd5a85193c4069582a2fc20380c7ff865ea7e6c10561a9392"
+  },
+  {
+    "name": "bin/management.dll",
+    "sha256sum": "7e6e8083560937673dbb2047151b50aac5a7ca81e3369d6e8c728ccb63e92152"
+  },
+  {
+    "name": "bin/mlib_image.dll",
+    "sha256sum": "b5a5ae77e803c62194fe8695c342f0dc6f399135a977d412f61b3430b98b018e"
+  },
+  {
+    "name": "bin/msvcp120.dll",
+    "sha256sum": "4b32f878d4127eea0c527aa4f55bcfd079616d86c1a8d7c2da7736b949f791ba"
+  },
+  {
+    "name": "bin/msvcr120.dll",
+    "sha256sum": "8a3d794d0c37e803f6c458cfcc3baf0431a36d310b626403a10ade2678d976d9"
+  },
+  {
+    "name": "bin/net.dll",
+    "sha256sum": "ff2512d2a10365b2162b995b47cde68ff39d68fbde3dea0da4ffcdf97a8345a6"
+  },
+  {
+    "name": "bin/nio.dll",
+    "sha256sum": "b7bf35706b130162a7ef3082ac5e6408334026e1c19b75953abe80c04f97039d"
+  },
+  {
+    "name": "bin/npt.dll",
+    "sha256sum": "cf9b450832f24b0230778fb243682e877b3a904d3065ac83d21986e90aa3cef2"
+  },
+  {
+    "name": "bin/orbd.exe",
+    "sha256sum": "5b92040fd1dc6da50287dbde2e279cd8a3736b88688cc4bae722018a8a55718f"
+  },
+  {
+    "name": "bin/pack200.exe",
+    "sha256sum": "38dfae543923994f793048693a48bd378b4b58097ec28f5cd166957fc642f964"
+  },
+  {
+    "name": "bin/policytool.exe",
+    "sha256sum": "11bb8a77a205150eab2ac465bf2b5d4a943ddfe6f7b1b6740d2cd675ed660f54"
+  },
+  {
+    "name": "bin/rmid.exe",
+    "sha256sum": "ddc144eb1cce4a41e4498f3b57dd1c6910efcf412e3a0e96e056c17392763223"
+  },
+  {
+    "name": "bin/rmiregistry.exe",
+    "sha256sum": "6f196a256a16b4a3dac5851e5c04e3ff779451917b5652ca925172e4b6f015ec"
+  },
+  {
+    "name": "bin/server/Xusage.txt",
+    "sha256sum": "37cf4e6cdc4357cebb0ec8108d5cb0ad42611f675b926c819ae03b74ce990a08"
+  },
+  {
+    "name": "bin/server/jvm.dll",
+    "sha256sum": "e1a5f04b5564356dff52147cb3705033ab67f1a4ee7f118719c1306ff792fbf4"
+  },
+  {
+    "name": "bin/servertool.exe",
+    "sha256sum": "1fdcca66643586a192c1658e87eae1ecd4addab81fe3f840fa8ef51b6fc1dfa2"
+  },
+  {
+    "name": "bin/splashscreen.dll",
+    "sha256sum": "ab9bd88715d9913c8a2513b351afc1269c7f5dfad46bdb7df24e438174b0c1e3"
+  },
+  {
+    "name": "bin/sunec.dll",
+    "sha256sum": "b103f85e43be9b4ca64a944eaca1f3a03ce37ec67f4543434f91ebeb0b7f9494"
+  },
+  {
+    "name": "bin/sunmscapi.dll",
+    "sha256sum": "a33fdfedc6226f2b278418e6742dc28bbf076b0bc4dd910dea7cf0d17fe37a33"
+  },
+  {
+    "name": "bin/tnameserv.exe",
+    "sha256sum": "8fa2af6bc044a6d7a68b51025f318cfcfabcce3ce64e722248ac95fb1c9dd745"
+  },
+  {
+    "name": "bin/unpack.dll",
+    "sha256sum": "a9d2fbc4d0b88bc1d721a5f319b8f8775f548df3d724495e1ef13d03a6731665"
+  },
+  {
+    "name": "bin/unpack200.exe",
+    "sha256sum": "05277a5f2784fa90aa5cc5e5aa139ccfa23b8b94fd49ae1995dbffefcbb20a0b"
+  },
+  {
+    "name": "bin/verify.dll",
+    "sha256sum": "d2b9fc02ec21df30016fd4262788a02fa1689492a026d9ed24ddd5b8a8b06b7c"
+  },
+  {
+    "name": "bin/w2k_lsa_auth.dll",
+    "sha256sum": "ce417832af5cb70b22b04b486c6b6adf307ad066eaccf513ef7e9f5bb8c16085"
+  },
+  {
+    "name": "bin/zip.dll",
+    "sha256sum": "1b69fc4486f69c26974e9fbb17d1aa69fd904d9dd2361f1ea79495c02afe8b37"
+  },
+  {
+    "name": "lib/accessibility.properties",
+    "sha256sum": "68ef2f3c6d7636e39c6626ed1bd700e3a6b796c25a9e5feca4533abfacd61cdf"
+  },
+  {
+    "name": "lib/amd64/jvm.cfg",
+    "sha256sum": "23f728cc2bf14e62d454190ea0139f159031b5bd9c3f141ca9237c4c5c96ec1d"
+  },
+  {
+    "name": "lib/calendars.properties",
+    "sha256sum": "9b72cfad9723c8b33eed3e18bda69be3f50740f8c11456487d3098e288359bfa"
+  },
+  {
+    "name": "lib/charsets.jar",
+    "sha256sum": "2b9d40847c689821d5aa68607b7b0ecc266aefae7a9bf936f211509e85076d71"
+  },
+  {
+    "name": "lib/classlist",
+    "sha256sum": "01fe24232d0dbefe339f88c44a3fd3d99ff0e17ae03926ccf90b835332f5f89c"
+  },
+  {
+    "name": "lib/cmm/CIEXYZ.pf",
+    "sha256sum": "98cf012f6122c833b1ff4fbbe37f43a808d769d9b10ba43f3411728e7bb58bea"
+  },
+  {
+    "name": "lib/cmm/GRAY.pf",
+    "sha256sum": "d3fd8cb41b7ef8c5ea53bfecb1ad6d4762197c8eab04444545e083dff6f86fa9"
+  },
+  {
+    "name": "lib/cmm/LINEAR_RGB.pf",
+    "sha256sum": "790da58ccc79d03658283652716ec9896ed31e0392d818e60f6832815ee79f4c"
+  },
+  {
+    "name": "lib/cmm/PYCC.pf",
+    "sha256sum": "0031aa2b8b4d490369a2a601ae0d95505df0cb86c0504f080c02ed87e84b3ddc"
+  },
+  {
+    "name": "lib/cmm/sRGB.pf",
+    "sha256sum": "87e382b9336e6a0417a4d860173109ab319a029cf2972e19833a3327c65bd7e4"
+  },
+  {
+    "name": "lib/content-types.properties",
+    "sha256sum": "46f47b3883c7244a819ae1161113fe9d2375f881b75c9b3012d7a6b3497e030a"
+  },
+  {
+    "name": "lib/currency.data",
+    "sha256sum": "183cea6ec937c92c47f2af345fda468cb19c6126dbb1a35b70dd47623efabe2b"
+  },
+  {
+    "name": "lib/ext/access-bridge-64.jar",
+    "sha256sum": "efb42d2d613e931a440e1331db6548496ef49a948c1feda9ec58311087047ecd"
+  },
+  {
+    "name": "lib/ext/cldrdata.jar",
+    "sha256sum": "a38a35885779c7bdd921ecb006132eba94d24ac467d975090c30983b75e26204"
+  },
+  {
+    "name": "lib/ext/dnsns.jar",
+    "sha256sum": "7aaf6fd71018bea2d48583e1300e47c7d0828fe1a0c79e08cb87dc47bc3cbaea"
+  },
+  {
+    "name": "lib/ext/jaccess.jar",
+    "sha256sum": "a92b37e07e95fdf2d17575f62c80908b3f3607cbbad93eb7e8ea813ca693cdea"
+  },
+  {
+    "name": "lib/ext/localedata.jar",
+    "sha256sum": "460588667a26fae273376d9588f501735e2b7a39cbfba479773e8fde0a082e1b"
+  },
+  {
+    "name": "lib/ext/meta-index",
+    "sha256sum": "87e75d66805d429cdf4cdd24672b5528cd30c7b0509a3f07c6b78b30ca2a52b1"
+  },
+  {
+    "name": "lib/ext/nashorn.jar",
+    "sha256sum": "297ef414e2bdcc6fb2de1368b106288dd4c61845af71ba8960ada4925ad07c20"
+  },
+  {
+    "name": "lib/ext/sunec.jar",
+    "sha256sum": "9f85cd024c31f57efe5f20585e0992a8505e4452c8cf729247e5e87ad03aa84c"
+  },
+  {
+    "name": "lib/ext/sunjce_provider.jar",
+    "sha256sum": "6f26bdd8b472b74260c527709bde80dd756e05f4b22e8872746d0fef499b65c0"
+  },
+  {
+    "name": "lib/ext/sunmscapi.jar",
+    "sha256sum": "f70c2145bed2360274d186c4bdee6ce465146a3227879770d7dcf17c25c9b1b3"
+  },
+  {
+    "name": "lib/ext/sunpkcs11.jar",
+    "sha256sum": "8b7907ad23c1e0bc56bf1a1b722063916b199866714e9e90548a9ad8d907db33"
+  },
+  {
+    "name": "lib/ext/zipfs.jar",
+    "sha256sum": "22ce2afa58bc534fca9bcb3257b7a0ef9f804aeb57a7a026ddbaec652a1fe387"
+  },
+  {
+    "name": "lib/flavormap.properties",
+    "sha256sum": "c2748e07b59398cc40cacccd47fc98a70c562f84067e9272383b45a8df72a692"
+  },
+  {
+    "name": "lib/fontconfig.bfc",
+    "sha256sum": "b2ab990df3c4c1c2ec4317aaf22c946df17f0796727dbda712402307c56558ac"
+  },
+  {
+    "name": "lib/fontconfig.properties.src",
+    "sha256sum": "f13df9360e93b24820b24652473f6cb0f4f70fc346aa3b408acb94ed59cac0ac"
+  },
+  {
+    "name": "lib/hijrah-config-umalqura.properties",
+    "sha256sum": "3456982de9eba535337852f02852e26e4ed197ebd9d8356977e6da4ed9075538"
+  },
+  {
+    "name": "lib/images/cursors/cursors.properties",
+    "sha256sum": "7b8b63f78e2f732bd58bf8f16144c4802c513a52970c18dc0bdb789dd04078e4"
+  },
+  {
+    "name": "lib/images/cursors/invalid32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "lib/images/cursors/win32_CopyDrop32x32.gif",
+    "sha256sum": "13c783acd580df27207dabccb10b3f0c14674560a23943ac7233df7f72d4e49d"
+  },
+  {
+    "name": "lib/images/cursors/win32_CopyNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "lib/images/cursors/win32_LinkDrop32x32.gif",
+    "sha256sum": "485cbe5c5144cfcd13cc6d701cdab96e4a6f8660cbc70a0a58f1b7916be64198"
+  },
+  {
+    "name": "lib/images/cursors/win32_LinkNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "lib/images/cursors/win32_MoveDrop32x32.gif",
+    "sha256sum": "12cfce05229dba939ce13375d65ca7d303ce87851ae15539c02f11d1dc824338"
+  },
+  {
+    "name": "lib/images/cursors/win32_MoveNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "lib/jce.jar",
+    "sha256sum": "e84b91a171dfa85a1b2b9928566fa7f611c5b90b4407c31f4b7b0939a6a87948"
+  },
+  {
+    "name": "lib/jsse.jar",
+    "sha256sum": "8782bb9cd7d859c7f64e455122a46c825a08286e97f07a61efa1881e0b0daae2"
+  },
+  {
+    "name": "lib/jvm.hprof.txt",
+    "sha256sum": "b055bf25b07e5ac70e99b897fb8152f288769065b5b84387362bb9cc2e6c9d38"
+  },
+  {
+    "name": "lib/logging.properties",
+    "sha256sum": "ce1688fe641099954572ea856953035b5188e2ca228705001368250337b9b232"
+  },
+  {
+    "name": "lib/management/jmxremote.access",
+    "sha256sum": "439158eb513525feda19e0e4153ccf36a08fe6a39c0c6ceeb9fcee86899dd33c"
+  },
+  {
+    "name": "lib/management/jmxremote.password.template",
+    "sha256sum": "3d83e336c9a24d09a16063ea1355885e07f7a176a37543463596b5db8d82f8fa"
+  },
+  {
+    "name": "lib/management/management.properties",
+    "sha256sum": "3a923735d9c2062064cd8fd30ff8cca84d0bc0ab5a8fab80fdad3155c0e3a380"
+  },
+  {
+    "name": "lib/management/snmp.acl.template",
+    "sha256sum": "f1dc97da5a5d220ed5d5b71110ce8200b16cac50622b33790bb03e329c751ced"
+  },
+  {
+    "name": "lib/management-agent.jar",
+    "sha256sum": "4bb66c37634b6c311593407c72f4edbc7e3316dd58d64d14363814caef51f20e"
+  },
+  {
+    "name": "lib/meta-index",
+    "sha256sum": "26f8fed8b8726e3a893fef2bab0d224ea0048b19f2e40e3e45b9160a18d3a9cb"
+  },
+  {
+    "name": "lib/net.properties",
+    "sha256sum": "31ce7ce29c66a1696a985a197195b5e051b2c243ea83e9d1de614f0c4b4f7530"
+  },
+  {
+    "name": "lib/psfont.properties.ja",
+    "sha256sum": "5a4bd51b969bf187ff86d94f4a71fdfbfa602762975fa3c73d264b4575f7c78f"
+  },
+  {
+    "name": "lib/psfontj2d.properties",
+    "sha256sum": "780c565d5af3ee6f68b887b75c041cdf46a0592f67012f12eeb691283e92630a"
+  },
+  {
+    "name": "lib/resources.jar",
+    "sha256sum": "bd9cfc513e363ec47f1274948f411f89279668310b8765b8c04e7de9c84ba177"
+  },
+  {
+    "name": "lib/rt.jar",
+    "sha256sum": "547b23cd2187814e9f1822c0496a5f355cf5de5ea460948042599cf91fff1a2f"
+  },
+  {
+    "name": "lib/security/blacklisted.certs",
+    "sha256sum": "ddd297102146ac7f6607b35c0e0b565975739a7841da5e5a6207b6f4ebb2d822"
+  },
+  {
+    "name": "lib/security/cacerts",
+    "sha256sum": "22aaeb894ea4ea25ca3eda0ff12bfa054b68c5e13af90340bfeff5137ccebc60"
+  },
+  {
+    "name": "lib/security/java.policy",
+    "sha256sum": "c22944481deab4fd7c2b7668fc9aaedf28b2424edd71c1fbd13100fc2a5621e6"
+  },
+  {
+    "name": "lib/security/java.security",
+    "sha256sum": "b665141a6342cf080dbed54d61009875114ecde80467c66741454a11929df73d"
+  },
+  {
+    "name": "lib/security/policy/limited/US_export_policy.jar",
+    "sha256sum": "9f8149fa2f0cc637e4d30b49cfeb0f4c7914fa415021e83ff4de2f1b4139c54a"
+  },
+  {
+    "name": "lib/security/policy/limited/local_policy.jar",
+    "sha256sum": "9f9418207e74e1428abb38686eb9c42d3ee742b19f6ac5187d6b31b6f1a7bedd"
+  },
+  {
+    "name": "lib/security/policy/unlimited/US_export_policy.jar",
+    "sha256sum": "9f8149fa2f0cc637e4d30b49cfeb0f4c7914fa415021e83ff4de2f1b4139c54a"
+  },
+  {
+    "name": "lib/security/policy/unlimited/local_policy.jar",
+    "sha256sum": "e366d9130601b489567e8c3439e5a2c3f62fe2da08769ed5028563015fe12214"
+  },
+  {
+    "name": "lib/sound.properties",
+    "sha256sum": "299c2360b6155eb28990ec49cd21753f97e43442fe8fab03e04f3e213df43a66"
+  },
+  {
+    "name": "lib/tzdb.dat",
+    "sha256sum": "251431706f4d0eb2dbcf561e19b418cd173da0a689464afa7aa8ec75862305e6"
+  },
+  {
+    "name": "lib/tzmappings",
+    "sha256sum": "83755efbcb24476f61b7b57bcf54707161678431347e5de2d7b894d022a0089a"
+  },
+  {
+    "name": "release",
+    "sha256sum": "fbeec1b31382d3d0ce69c4b695af07ea93f91701457c9993448e4fcac530135b"
+  }
+]
