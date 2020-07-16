@@ -1,0 +1,542 @@
+[
+  {
+    "name": "jdk8u262-b10-jre/ASSEMBLY_EXCEPTION",
+    "sha256sum": "a44eb7b5caf5534c6ef536b21edb40b4d6babf91bf97d9d45596868618b2c6fb"
+  },
+  {
+    "name": "jdk8u262-b10-jre/LICENSE",
+    "sha256sum": "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726"
+  },
+  {
+    "name": "jdk8u262-b10-jre/THIRD_PARTY_README",
+    "sha256sum": "22c6e571a3da8f71c71d57ebc0df7f269aeb9f0c9faa8329662036c2a4e7e881"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/java",
+    "sha256sum": "7009ec6dfd7a9c30e0dedb93d17f9ab4efa8fa03d4ad480193e9707b8e7e956c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/jjs",
+    "sha256sum": "b0921456b15eae8520261e01ee01c8ae6471f94e6c556b22600e9fa3afea24d0"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/keytool",
+    "sha256sum": "67b0af062e8b341c340155c5ddb283955691bc262d1d88b46fac7099808515ca"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/orbd",
+    "sha256sum": "8f2f473a3cdafe86740ea251556d4ac8a715dc2f1b8bdbabf2d5ae7e38a05a71"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/pack200",
+    "sha256sum": "e5f1ece9538b6fb612d71b62777c13a8f99164690cf10ba6bb98b011cc7b9df9"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/policytool",
+    "sha256sum": "a1a55c1e6c6ed8c2ec403dcd651c510d5eac0f9d385fde251d0ce1190ca9c91e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/rmid",
+    "sha256sum": "dfdbf4a1fbcb4feb7b91027742e61429ffe637172a2b224a1a0eb1aa640aa340"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/rmiregistry",
+    "sha256sum": "c9650fa93764f6acf465a2ad6e0a5936fdd42a2e9070cb562aeecf46f26c7f79"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/servertool",
+    "sha256sum": "917ac20172cb240530c78d9a2c8b7fdb0ad270150edfe4184d47cc629e14a9a1"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/tnameserv",
+    "sha256sum": "6297d08f00562fa07b2a610e1c907e8c43adffd4cac439aa4ade8a1c0e34947a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/bin/unpack200",
+    "sha256sum": "fc48d5e77b537d34d01548521feb03c6817b29966570d7e03b342cec7401778c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/jli/libjli.so",
+    "sha256sum": "6b398a170c5334eeebe49e41d7db97397b54d188666cd222bf0d756f367b7707"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/jvm.cfg",
+    "sha256sum": "f9ed38bb539d79eaf4e852157294c9609bad856c1269aa7134b15f3557dfad00"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libawt.so",
+    "sha256sum": "4f73f349800e3fdf7aa8a7b99bbee3c36d98a00fe0a2f5e1286ac93c260e6b38"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libawt_headless.so",
+    "sha256sum": "fd40d2a7ee19247c5a2b076d0e2b61255121de58cd19192aa151497c99efd96d"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libawt_xawt.so",
+    "sha256sum": "ad341e2265e2ec7d0a3b0e25d7c311b59ea916ce2680de6f34d13a9d9bfe5321"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libdt_socket.so",
+    "sha256sum": "4d7d85fcda71c8cbf947e38f967e2282ec3df30e0a93b89ba08d999803636029"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libfontmanager.so",
+    "sha256sum": "e2e27ae5578943a6ba759ca36b8557a57259972af015475443482f0c339b41d5"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libfreetype.so.6",
+    "sha256sum": "984f3caecb35a16cdaba01a53e1c9e323510e3c319b22ef61f10c082d6a0cb7b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libhprof.so",
+    "sha256sum": "1b50d05a5de597a39a6cd96a95c14fc02e3f3ef8be0da1803fe5bca51f995aa4"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libinstrument.so",
+    "sha256sum": "a4d4ba8aa304c94f521e5c263b0952d22c42418b165ace9c2700323e2b716e8a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libj2gss.so",
+    "sha256sum": "ab59dc2935468cd167ff3cf589c2a04b9da6b53fcf408a5a7804b6993d1c909e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libj2pcsc.so",
+    "sha256sum": "21af5a6edb4ac26a3ef251976750b0228fc4e7b445a22ec75b4fe6d09b3be929"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libj2pkcs11.so",
+    "sha256sum": "1e868cc7f024301e7ad6b8fc6d6ede6429c921768530ba6636f1a8062eaab0fc"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjaas_unix.so",
+    "sha256sum": "fc930c9e2b86da222bcbc769df5c04ba6752768443caf5c841997a1432a2a971"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjava.so",
+    "sha256sum": "767369c2ee05d4abe5635930b590af39f30e4e799440caee2c5b4fbc497866f9"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjava_crw_demo.so",
+    "sha256sum": "f153fdc8fd788d993fbf1174dd9306fd95a07d5f6383e12d2867516e7f70d4ec"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjawt.so",
+    "sha256sum": "be9703685fac4f1b80df440beee823e06ede6f02d96dfabde33cc4140d745165"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjdwp.so",
+    "sha256sum": "d0a6a6649a01c44532bdd63b8472bd0094cd8b95a543f4d98620ae59c25f8fbd"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjpeg.so",
+    "sha256sum": "daf5db1985702d150104c84b2070062ac07c5225bb573b39b955162201974dca"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjsdt.so",
+    "sha256sum": "c0624d0f8add40f47262cf132990f976eb4de7154929446a72a5f3f09075cbcb"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjsig.so",
+    "sha256sum": "105faaf154006b902353671405bd8fffec2aaf2196b9b062965ce0093ae98635"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjsound.so",
+    "sha256sum": "f9ba6cc930cf04684fa94c57461a9d4dd9b435d3d25841ded57e73cda423fba1"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libjsoundalsa.so",
+    "sha256sum": "88fe4e913f760b9ce7c5b1a5e58d129f53238505dde1e4518effbe94cb070ddd"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/liblcms.so",
+    "sha256sum": "2b833b3a849441edc8079db818ee29ebda3d42635eb7d92465114531b2dfb780"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libmanagement.so",
+    "sha256sum": "514bfc6df005e16707489e31588f1a18b473490cdb1b69f5ff1348295a52ae1b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libmlib_image.so",
+    "sha256sum": "08db23403df4ebc8f39e3099b29041d2b3b63ac17c548c2e54bc9b17521e27f9"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libnet.so",
+    "sha256sum": "2a8ed33b43965810df31bc6b11992ba0b1f94631dcf3a613d37cb30c05084276"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libnio.so",
+    "sha256sum": "ce1973e5afff16accd16b6cae22ca90ecc61c486cf26512a53cbeda756f6c4cd"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libnpt.so",
+    "sha256sum": "e43eefe18b9eb0ba5a4bcafc91ef22e402a2e8db115238407e5eaa1040c9c0fa"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libsctp.so",
+    "sha256sum": "602ffc58c1acfc37b2da352e43a8df18da84275e47bb4549a22d162cb99369e1"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libsplashscreen.so",
+    "sha256sum": "37e1751774d18419c1df4b57f2802a07f52a1c820517e8ec86fbbd1c07772056"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libsunec.so",
+    "sha256sum": "d1bb0a7ce708d5fbba337516efe04fadbd94328671fe4559404cef73b29c1ca6"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libunpack.so",
+    "sha256sum": "4c4ce6c2136beae4eb1fb00db68f5e4e2fa75dcae2f2c684d254797acafc902a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libverify.so",
+    "sha256sum": "c4ebca37ec70f108d969fed47a42bf6d50ff69d7fd609158154692987089e895"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/libzip.so",
+    "sha256sum": "d154501bf94b0f1dced3d86f16f8ca9bfa92cffc57f06d639d9e8c7b7c5297b1"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/server/Xusage.txt",
+    "sha256sum": "a13b50a87e063d7fa72708e431755ea8821a73276a7291e5702151cc2ccf92a8"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/server/libjsig.so",
+    "sha256sum": "105faaf154006b902353671405bd8fffec2aaf2196b9b062965ce0093ae98635"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/amd64/server/libjvm.so",
+    "sha256sum": "bc1743bc623756aab5610dcb97389297552d34aedb83bbfc2e594a9b9d971c9c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/calendars.properties",
+    "sha256sum": "9b72cfad9723c8b33eed3e18bda69be3f50740f8c11456487d3098e288359bfa"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/charsets.jar",
+    "sha256sum": "3e822dc33cbad344ba0b7512e766035b31500f0eb9eb0bac47965a5c49e9bbf6"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/classlist",
+    "sha256sum": "ef95793f41959b856d4f6a16d0318b6b92bae7217b6e57f596f4bb3979c19a77"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/cmm/CIEXYZ.pf",
+    "sha256sum": "98cf012f6122c833b1ff4fbbe37f43a808d769d9b10ba43f3411728e7bb58bea"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/cmm/GRAY.pf",
+    "sha256sum": "d3fd8cb41b7ef8c5ea53bfecb1ad6d4762197c8eab04444545e083dff6f86fa9"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/cmm/LINEAR_RGB.pf",
+    "sha256sum": "790da58ccc79d03658283652716ec9896ed31e0392d818e60f6832815ee79f4c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/cmm/PYCC.pf",
+    "sha256sum": "0031aa2b8b4d490369a2a601ae0d95505df0cb86c0504f080c02ed87e84b3ddc"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/cmm/sRGB.pf",
+    "sha256sum": "87e382b9336e6a0417a4d860173109ab319a029cf2972e19833a3327c65bd7e4"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/content-types.properties",
+    "sha256sum": "ec5a1eb433f210b651c07989aba5ade1b0bf1153d223ebd60626b404645ff892"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/currency.data",
+    "sha256sum": "183cea6ec937c92c47f2af345fda468cb19c6126dbb1a35b70dd47623efabe2b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/cldrdata.jar",
+    "sha256sum": "a898ca7459e8f176fd5274b86bbc28233d234b226b02ac8777b7c7c371ab802e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/dnsns.jar",
+    "sha256sum": "0b8bca6e65af78ebb70cc81dbff54cae808e592a8932e7a7e686649a3550ecd6"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/jaccess.jar",
+    "sha256sum": "306fcdabd9f46097eea4b40ffc4ab17fe12991a705213c4c9bc396202c73245e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/localedata.jar",
+    "sha256sum": "a9edf1b65234bb6e5730004a21fac4f5271507361d10c149eb6f2bf8e461c481"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/meta-index",
+    "sha256sum": "85e28c3352e27e0be2ef53fbb996c4023dfd77fcf96bd0cd1e389767bd6b3d1c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/nashorn.jar",
+    "sha256sum": "86955ae8ac5304cfbe1797b6dfe2f6a5a06c9968afad8b6cfe3750d9f7fb6483"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/sunec.jar",
+    "sha256sum": "a8f4277e2b2ea9d57e4881399526a1f44ea8506d87cdbf868eb9fe69b8ecb574"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/sunjce_provider.jar",
+    "sha256sum": "caa79d0968717bb8d48c4c7df4e972de49ea331d0b309fa8bfc9dadf95bdea8a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/sunpkcs11.jar",
+    "sha256sum": "5fdf13f117e4fab1c584e35013e65d4a9f9be4e327f3df02f5816f94a7d91615"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/ext/zipfs.jar",
+    "sha256sum": "308e761bba579bc3717787a2907627d1510223307e150da846dc68eef6f06d05"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/flavormap.properties",
+    "sha256sum": "3c3ae53aba9495eff8b8d28c171b49f84e6fed9acee9729387135bbd9b304fca"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/hijrah-config-umalqura.properties",
+    "sha256sum": "3456982de9eba535337852f02852e26e4ed197ebd9d8356977e6da4ed9075538"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/cursors.properties",
+    "sha256sum": "2159cd9e967f6935428bb140ef757d499916e30415afcb93d288da233bafa855"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/invalid32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_CopyDrop32x32.gif",
+    "sha256sum": "9fc5e00caa9c92e16aa97ecf5f313b3a53712628fabd875512ef59512d27ba35"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_CopyNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_LinkDrop32x32.gif",
+    "sha256sum": "397744f8d5bc5158f235b55c62534d59bc437ff57f8bc4fd47917324fa430dd6"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_LinkNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_MoveDrop32x32.gif",
+    "sha256sum": "2592d70a052be96a45bf635ed314d641dd7275ed7976d4cc30027dad26fe65cf"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/images/cursors/motif_MoveNoDrop32x32.gif",
+    "sha256sum": "1a1d3079d49583837662b84e11d8c0870698511d9110e710eb8e7eb20df7ae3b"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jce.jar",
+    "sha256sum": "6d44d75b3078e0f0ee8daf17ad3c56ad341c69af4021339829530f47a37835fe"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jexec",
+    "sha256sum": "2e1e3d22eeee487a53e42dd4e99d3310a33508e98e8acb056f07cbab3bd78dc0"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jfr/default.jfc",
+    "sha256sum": "d1764b7cff0eabbef9f30abbb233286a022b2fa8408c5ca30e0fa332c02e570f"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jfr/profile.jfc",
+    "sha256sum": "bb345023356fae6c9c37bf527d83255ac37e0250ae727a15b72ca9984a5c0226"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jfr.jar",
+    "sha256sum": "e7f6397a9d8bcb449dadce38b1ca8c9e7a61077ace55545a0d3d6c91b1f96956"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jsse.jar",
+    "sha256sum": "f76e56eb0d5a9193d690ac27bbe7ef86cfa42163c468053615ffc462d395518e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/jvm.hprof.txt",
+    "sha256sum": "b055bf25b07e5ac70e99b897fb8152f288769065b5b84387362bb9cc2e6c9d38"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/logging.properties",
+    "sha256sum": "ce1688fe641099954572ea856953035b5188e2ca228705001368250337b9b232"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/management/jmxremote.access",
+    "sha256sum": "439158eb513525feda19e0e4153ccf36a08fe6a39c0c6ceeb9fcee86899dd33c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/management/jmxremote.password.template",
+    "sha256sum": "3d83e336c9a24d09a16063ea1355885e07f7a176a37543463596b5db8d82f8fa"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/management/management.properties",
+    "sha256sum": "3a923735d9c2062064cd8fd30ff8cca84d0bc0ab5a8fab80fdad3155c0e3a380"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/management/snmp.acl.template",
+    "sha256sum": "f1dc97da5a5d220ed5d5b71110ce8200b16cac50622b33790bb03e329c751ced"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/management-agent.jar",
+    "sha256sum": "a95c8f0635fec4e55c258f5af9a2f7453a6200d90651130bbed0e14e82ea0b30"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/meta-index",
+    "sha256sum": "6d25c28b907af9b08c39e343f6b0ba7ede2a23a9430d69bc5bf38b29cdba0563"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/net.properties",
+    "sha256sum": "31ce7ce29c66a1696a985a197195b5e051b2c243ea83e9d1de614f0c4b4f7530"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/psfont.properties.ja",
+    "sha256sum": "5a4bd51b969bf187ff86d94f4a71fdfbfa602762975fa3c73d264b4575f7c78f"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/psfontj2d.properties",
+    "sha256sum": "780c565d5af3ee6f68b887b75c041cdf46a0592f67012f12eeb691283e92630a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/resources.jar",
+    "sha256sum": "9790c270119dd173ee5d65c69013fc339686c541f341dc9798ed8ed1364cce47"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/rt.jar",
+    "sha256sum": "9300a28361ec8c08ff8298143cd48f6b83d28567c51a58279336c8e857a2f278"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/blacklisted.certs",
+    "sha256sum": "1fbea394e634630894cf72de02df1846f32f3bb2067b3cb596700e4dd923f4b5"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/cacerts",
+    "sha256sum": "60ef3af844cf796fa355ad3a8061a7ee692ab4e4f401c447fff8251eab8731f2"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/java.policy",
+    "sha256sum": "c22944481deab4fd7c2b7668fc9aaedf28b2424edd71c1fbd13100fc2a5621e6"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/java.security",
+    "sha256sum": "d75f4f9303559347b1564cb4177ae39b205995f62175a330050004ec51f1945c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/policy/limited/US_export_policy.jar",
+    "sha256sum": "7dc87ca1fc2c53443842a9c94015bfc21b585715c6aa434e2a84ba038b144bcf"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/policy/limited/local_policy.jar",
+    "sha256sum": "f9e554ca4a5b040b3001161f03f7f4ba54656344f3b6115a808ae15b8ca4be23"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/policy/unlimited/US_export_policy.jar",
+    "sha256sum": "7dc87ca1fc2c53443842a9c94015bfc21b585715c6aa434e2a84ba038b144bcf"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/security/policy/unlimited/local_policy.jar",
+    "sha256sum": "64237db182e9121f0f5fd41347ae9a5f4f4c24f04ba4c5e51c7a6c9c90dac92f"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/sound.properties",
+    "sha256sum": "299c2360b6155eb28990ec49cd21753f97e43442fe8fab03e04f3e213df43a66"
+  },
+  {
+    "name": "jdk8u262-b10-jre/lib/tzdb.dat",
+    "sha256sum": "55731262567a5cb3d2d6fd5ccfb09da35e9455d2272141494f3b67f6f81a109e"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja",
+    "sha256sum": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/java.1",
+    "sha256sum": "5e025f1ffe289df9354b415b7644747547d04872ee45a542e09a8d6c6c5b0170"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/jjs.1",
+    "sha256sum": "591ccc902dfe25a99d7f50ac6b4bc224c2d32d51748530ba6a481e14dcbd8f21"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/keytool.1",
+    "sha256sum": "64ef1c3e43a069edbadacd8359a59fe015b1d6893e594d0cb2bc383abafa5ad2"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/orbd.1",
+    "sha256sum": "60592a8da9c9c6412193a07d63fdb013d37fed0df57c679389420567aaa6e0c4"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/pack200.1",
+    "sha256sum": "150a000ed4262977df8fc673343b8c5c39df58dee9dca559666ae8f2797d78f2"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/policytool.1",
+    "sha256sum": "148753440aef70bd2a34211ddb8d2c65723c710abf483b7bcd8bd1d7240954f0"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/rmid.1",
+    "sha256sum": "f73905600226a37191769921a969d83905fcbdffa35d697410290dddafab39bc"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/rmiregistry.1",
+    "sha256sum": "3c75f3da96a5ced86afef054e630234ccd3444e467338047b802cc7537af502a"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/servertool.1",
+    "sha256sum": "422cf01f8e86d7a2c0c2b31096f06ea16898e0378d295febfa030f3ae00f07ee"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/tnameserv.1",
+    "sha256sum": "1bce0e09160c89d73215c7db7547bceeef12694def01697ad99e43eeb83e468f"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/ja_JP.UTF-8/man1/unpack200.1",
+    "sha256sum": "4b5fb710a4722cb585f8b6e396fa746657c454a22a80924a11be4e50388f7c1c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/java.1",
+    "sha256sum": "1443c5d618241577fd7206fa9a8b9a1ab3e063856cb1b789a6635b70efdc357c"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/jjs.1",
+    "sha256sum": "af6584b5783423a54b1b4e89242609e71a3afce7eea63258bdf2a35d595ea803"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/keytool.1",
+    "sha256sum": "c81a223792eb2ed517c3071b328d303ad23ca261ea5b98e68c1126111bf53347"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/orbd.1",
+    "sha256sum": "7ea11655e44ca7543300241dfcaa1e43fd798a8591e8b37dab151e9d503b3a04"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/pack200.1",
+    "sha256sum": "97ba9e8c99179a88316b1b65ba0f00e1b783c0da5743b5f62d215329307fd508"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/policytool.1",
+    "sha256sum": "02851ab5580964594002ae85313952b5df12c91a7ea1e4ea4418ed92174ada93"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/rmid.1",
+    "sha256sum": "c91e0d0ba24d9c2b39ab330bb1ec2e26a4476548e571ec5107c5959fde107c5d"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/rmiregistry.1",
+    "sha256sum": "b9e0e608e31c8c5eb07e2b442bb155592cdff9547e2554669f54092a7b10505d"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/servertool.1",
+    "sha256sum": "43ec4799288f615e530bba2f81286b56c242adcf978d8549ff8e28a7ff6f3ff1"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/tnameserv.1",
+    "sha256sum": "0e04bb82e06e1fbc40e00d48fd93baebb46010a6280d54fd5ef78d7bf74a74d5"
+  },
+  {
+    "name": "jdk8u262-b10-jre/man/man1/unpack200.1",
+    "sha256sum": "cf27f93112e69d045f15cb7592c41b306cc555f8a625802c6d80f579bd87de50"
+  },
+  {
+    "name": "jdk8u262-b10-jre/release",
+    "sha256sum": "6b3b4e6052a2a0a57bd543f2d654b2f29bbb8be9addf0b1fb8bf276f8d315eb5"
+  }
+]
