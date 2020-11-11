@@ -1,6 +1,6 @@
 {
-  "linux-filename": "OpenJDK8U-jre_x64_linux_hotspot_8u272b10.tar.gz",
-  "linux-sum": "e6894601a559c5226c6dc337308df263444d356a6430f4aabb66e02607c82956",
-  "windows-filename": "OpenJDK8U-jre_x64_windows_hotspot_8u272b10.zip",
-  "windows-sum": "52e020014cc95a4c64f292add50b1f2f228a656a3f2914b5e9a630eb667b703f"
+  "linux-filename": "OpenJDK8U-jre_x64_linux_hotspot_8u275b01.tar.gz",
+  "linux-sum": "a044da8bf198ad756b2bbb83f3d48ddeeffb934b9a9974d9b9bb6d0034413a83",
+  "windows-filename": "OpenJDK8U-jre_x64_windows_hotspot_8u275b01.zip",
+  "windows-sum": "3e0639deb296f13b66dbc1ac7306cd2784cddc968bed32e703be520c6cbd7bc4"
 }
